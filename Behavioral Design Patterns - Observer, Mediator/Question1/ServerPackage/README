@@ -1,0 +1,4 @@
+In Server.java inside the constructor: While reading input file, the file location is given as absolute path in my pc.
+
+When new users are added server will have to input the command
+"notify" without quotation. Then all new users will see the stocks. 
